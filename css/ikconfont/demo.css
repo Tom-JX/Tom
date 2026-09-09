@@ -1,0 +1,14 @@
+/* demo.css */
+body,html{height:100%}
+body{font-family:'Helvetica Neue',Helvetica,'PingFang SC','Microsoft YaHei',Arial,sans-serif;background:#fff;color:#333;font-size:14px;line-height:1.6}
+.main{padding:24px 32px}
+.icon_lists{overflow:hidden}
+.icon_lists li{float:left;width:16.6%;height:110px;margin:10px 0;list-style:none;text-align:center;transition:background .2s}
+.icon_lists li:hover{background:#f5f5f5;border-radius:6px}
+.icon_lists .icon{font-size:36px;color:#333;line-height:1.2;margin-bottom:8px;display:block}
+.icon_lists .name{font-size:12px;color:#999;word-break:break-all}
+.icon_lists .code{display:block;margin-top:4px;font-size:11px;color:#ff6700}
+.title{font-size:20px;font-weight:600;margin:24px 0 12px}
+.sub-title{font-size:14px;color:#999;margin-bottom:16px}
+.mark{background:#fffbe6;padding:2px 6px;border-radius:3px;font-size:12px;color:#ad6800}
+code{font-family:Consolas,Menlo,monospace;background:#f5f5f5;padding:2px 6px;border-radius:3px;font-size:12px}

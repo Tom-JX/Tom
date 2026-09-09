@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "手机",
+    "img": "imgs/channel/channel1.png",
+    "url": "/shop/category/list#cat1"
+  },
+  {
+    "id": 2,
+    "name": "电视",
+    "img": "imgs/channel/channel2.png",
+    "url": "/shop/category/list#cat2"
+  },
+  {
+    "id": 3,
+    "name": "家电",
+    "img": "imgs/channel/channel3.png",
+    "url": "/shop/category/list#cat3"
+  },
+  {
+    "id": 4,
+    "name": "笔记本 平板 显示器",
+    "img": "imgs/channel/channel4.png",
+    "url": "/shop/category/list#cat4"
+  },
+  {
+    "id": 5,
+    "name": "出行 穿戴",
+    "img": "imgs/channel/channel5.png",
+    "url": "/shop/category/list#cat5"
+  },
+  {
+    "id": 6,
+    "name": "耳机 音箱",
+    "img": "imgs/channel/channel6.png",
+    "url": "/shop/category/list#cat6"
+  },
+  {
+    "id": 7,
+    "name": "健康 儿童",
+    "img": "imgs/channel/channel7.jpg",
+    "url": "/shop/category/list#cat7"
+  },
+  {
+    "id": 8,
+    "name": "生活 箱包",
+    "img": "imgs/channel/channel8.jpg",
+    "url": "/shop/category/list#cat8"
+  },
+  {
+    "id": 9,
+    "name": "智能 路由器",
+    "img": "imgs/channel/channel9.png",
+    "url": "/shop/category/list#cat9"
+  },
+  {
+    "id": 10,
+    "name": "电源 配件",
+    "img": "imgs/channel/channel10.jpg",
+    "url": "/shop/category/list#cat10"
+  }
+]

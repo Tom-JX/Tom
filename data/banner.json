@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "小米18Fold",
+    "img": "imgs/banner/banner1.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=25299"
+  },
+  {
+    "id": 2,
+    "title": "小米Pad9ProMax",
+    "img": "imgs/banner/banner2.png",
+    "url": "https://www.mi.com/shop/buy?product_id=25324"
+  },
+  {
+    "id": 3,
+    "title": "小米手环11",
+    "img": "imgs/banner/banner3.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=10050239"
+  },
+  {
+    "id": 4,
+    "title": "米家充气宝3",
+    "img": "imgs/banner/banner4.jpg",
+    "url": "https://www.mi.com/a/h/94384.html"
+  },
+  {
+    "id": 5,
+    "title": "米家智能IH电饭煲2",
+    "img": "imgs/banner/banner5.jpg",
+    "url": "https://www.mi.com/a/h/94165.html"
+  },
+  {
+    "id": 6,
+    "title": "米家夜灯4",
+    "img": "imgs/banner/banner6.jpg",
+    "url": "https://www.mi.com/a/h/94345.html"
+  }
+]

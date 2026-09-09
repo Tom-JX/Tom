@@ -1,0 +1,154 @@
+[
+  {
+    "id": 25299,
+    "name": "Xiaomi 18 Fold",
+    "price": "10999元起",
+    "oldPrice": "",
+    "img": "imgs/phone/01_Xiaomi_18_Fold.png",
+    "url": "https://www.mi.com/shop/buy?product_id=25299"
+  },
+  {
+    "id": 24809,
+    "name": "Xiaomi 17T Pro",
+    "price": "4299元起",
+    "oldPrice": "",
+    "img": "imgs/phone/02_Xiaomi_17T_Pro.png",
+    "url": "https://www.mi.com/shop/buy?product_id=24809"
+  },
+  {
+    "id": 24814,
+    "name": "Xiaomi 17T",
+    "price": "3499元起",
+    "oldPrice": "",
+    "img": "imgs/phone/03_Xiaomi_17T.png",
+    "url": "https://www.mi.com/shop/buy?product_id=24814"
+  },
+  {
+    "id": 24648,
+    "name": "Xiaomi 17 Max",
+    "price": "4799元起",
+    "oldPrice": "",
+    "img": "imgs/phone/04_Xiaomi_17_Max.png",
+    "url": "https://www.mi.com/shop/buy?product_id=24648"
+  },
+  {
+    "id": 22423,
+    "name": "Xiaomi 17 Ultra 徕卡版",
+    "price": "7999元起",
+    "oldPrice": "",
+    "img": "imgs/phone/05_Xiaomi_17_Ultra_徕卡版.png",
+    "url": "https://www.mi.com/shop/buy?product_id=22423"
+  },
+  {
+    "id": 22422,
+    "name": "Xiaomi 17 Ultra",
+    "price": "6999元起",
+    "oldPrice": "",
+    "img": "imgs/phone/06_Xiaomi_17_Ultra.png",
+    "url": "https://www.mi.com/shop/buy?product_id=22422"
+  },
+  {
+    "id": 25140,
+    "name": "REDMI K100 Pro Max",
+    "price": "4499元起",
+    "oldPrice": "",
+    "img": "imgs/phone/07_REDMI_K100_Pro_Max.png",
+    "url": "https://www.mi.com/shop/buy?product_id=25140"
+  },
+  {
+    "id": 25135,
+    "name": "REDMI K100 Pro",
+    "price": "3999元起",
+    "oldPrice": "",
+    "img": "imgs/phone/08_REDMI_K100_Pro.png",
+    "url": "https://www.mi.com/shop/buy?product_id=25135"
+  },
+  {
+    "id": 24884,
+    "name": "REDMI 17 5G",
+    "price": "999元起",
+    "oldPrice": "",
+    "img": "imgs/phone/09_REDMI_17_5G.png",
+    "url": "https://www.mi.com/shop/buy?product_id=24884"
+  },
+  {
+    "id": 24930,
+    "name": "REDMI Note 17 Pro",
+    "price": "1549元起",
+    "oldPrice": "",
+    "img": "imgs/phone/10_REDMI_Note_17_Pro.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=24930"
+  },
+  {
+    "id": 24940,
+    "name": "REDMI Note 17",
+    "price": "1249元起",
+    "oldPrice": "",
+    "img": "imgs/phone/11_REDMI_Note_17.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=24940"
+  },
+  {
+    "id": 24933,
+    "name": "REDMI K90 至尊版",
+    "price": "3699元起",
+    "oldPrice": "",
+    "img": "imgs/phone/12_REDMI_K90_至尊版.png",
+    "url": "https://www.mi.com/shop/buy?product_id=24933"
+  },
+  {
+    "id": 25299,
+    "name": "Xiaomi 18 Fold 一手掌握，一眼开阔",
+    "price": "10999元起",
+    "oldPrice": "",
+    "img": "imgs/phone/13_Xiaomi_18_Fold_一手掌握，一眼开阔.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=25299"
+  },
+  {
+    "id": 25135,
+    "name": "REDMI K100 Pro 旗舰双芯 | 185Hz 高刷屏 | 2亿旗舰主摄",
+    "price": "3999元起",
+    "oldPrice": "",
+    "img": "imgs/phone/14_REDMI_K100_Pro_旗舰双芯___185Hz_高刷屏___2亿旗舰主摄.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=25135"
+  },
+  {
+    "id": 24884,
+    "name": "REDMI 17 5G 大屏长续航 久用也流畅",
+    "price": "999元起",
+    "oldPrice": "1099元",
+    "img": "imgs/phone/24884_REDMI_17_5G_大屏长续航_久用也流畅.png",
+    "url": "https://www.mi.com/shop/buy?product_id=24884"
+  },
+  {
+    "id": 24930,
+    "name": "REDMI Note 17 Pro 抗摔 防水 长续航",
+    "price": "1549元起",
+    "oldPrice": "1599元",
+    "img": "imgs/phone/16_REDMI_Note_17_Pro_抗摔_防水_长续航.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=24930"
+  },
+  {
+    "id": 24940,
+    "name": "REDMI Note 17 大屏 大电量",
+    "price": "1249元起",
+    "oldPrice": "1299元",
+    "img": "imgs/phone/17_REDMI_Note_17_大屏_大电量.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=24940"
+  },
+  {
+    "id": 24933,
+    "name": "REDMI K90 至尊版 狂暴双芯 | 风冷主动散热 | 165Hz 高刷屏",
+    "price": "3699元起",
+    "oldPrice": "",
+    "img": "imgs/phone/18_REDMI_K90_至尊版_狂暴双芯___风冷主动散热___165Hz_高刷屏.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=24933"
+  },
+  {
+    "id": 24895,
+    "name": "REDMI 17C 【质感影像】1300万高清主摄",
+    "price": "799元起",
+    "oldPrice": "999元",
+    "img": "imgs/phone/24895_REDMI_17C_【质感影像】1300万高清主摄.jpg",
+    "url": "https://www.mi.com/shop/buy?product_id=24895"
+  }
+]
