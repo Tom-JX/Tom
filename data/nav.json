@@ -2,1260 +2,800 @@
   {
     "id": 1,
     "name": "手机",
-    "img": "imgs/channel/channel1.png",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/01_01_Xiaomi_数字旗舰.png",
         "name": "Xiaomi 数字旗舰",
-        "img": "imgs/nav/01_01_Xiaomi_数字旗舰.png"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/01_02_Xiaomi_MIX系列.png",
         "name": "Xiaomi MIX系列",
-        "img": "imgs/nav/01_02_Xiaomi_MIX系列.png"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/01_03_Xiaomi_Civi系列.png",
         "name": "Xiaomi Civi系列",
-        "img": "imgs/nav/01_03_Xiaomi_Civi系列.png"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/01_04_REDMI_K系列.png",
         "name": "REDMI K系列",
-        "img": "imgs/nav/01_04_REDMI_K系列.png"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/01_05_REDMI_Turbo系列.png",
         "name": "REDMI Turbo系列",
-        "img": "imgs/nav/01_05_REDMI_Turbo系列.png"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/01_06_REDMI_Note系列.png",
         "name": "REDMI Note系列",
-        "img": "imgs/nav/01_06_REDMI_Note系列.png"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/01_07_REDMI_数字系列.png",
         "name": "REDMI 数字系列",
-        "img": "imgs/nav/01_07_REDMI_数字系列.png"
-      },
-      {
-        "id": 8,
-        "name": "保障服务",
-        "img": "imgs/nav/01_08_保障服务.png"
-      },
-      {
-        "id": 9,
-        "name": "企业团购",
-        "img": "imgs/nav/01_09_企业团购.png"
-      },
-      {
-        "id": 10,
-        "name": "F码通道",
-        "img": "imgs/nav/01_10_F码通道.png"
-      },
-      {
-        "id": 11,
-        "name": "米粉卡",
-        "img": "imgs/nav/01_11_米粉卡.png"
-      },
-      {
-        "id": 12,
-        "name": "以旧换新",
-        "img": "imgs/nav/01_12_以旧换新.png"
-      },
-      {
-        "id": 13,
-        "name": "话费充值",
-        "img": "imgs/nav/01_13_话费充值.png"
-      },
-      {
-        "id": 14,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/01_14_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 15,
-        "name": "个人中心",
-        "img": "imgs/nav/01_15_个人中心.png"
-      },
-      {
-        "id": 16,
-        "name": "售后服务",
-        "img": "imgs/nav/01_16_售后服务.png"
-      },
-      {
-        "id": 17,
-        "name": "人工客服",
-        "img": "imgs/nav/01_17_人工客服.png"
-      },
-      {
-        "id": 18,
-        "name": "购物车",
-        "img": "imgs/nav/01_18_购物车.png"
+        "url": "#"
       }
     ]
   },
   {
     "id": 2,
     "name": "电视",
-    "img": "imgs/channel/channel2.png",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/02_01_S_Pro_RGB-Mini_LED.png",
         "name": "S Pro RGB-Mini LED",
-        "img": "imgs/nav/02_01_S_Pro_RGB-Mini_LED.png"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/02_02_S_Mini_LED_2026.png",
         "name": "S Mini LED 2026",
-        "img": "imgs/nav/02_02_S_Mini_LED_2026.png"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/02_03_小米电视SPro_MiniLED2026.png",
         "name": "小米电视SPro MiniLED2026",
-        "img": "imgs/nav/02_03_小米电视SPro_MiniLED2026.png"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/02_04_旗舰系列-S_Pro_Mini_LED.png",
         "name": "旗舰系列-S Pro Mini LED",
-        "img": "imgs/nav/02_04_旗舰系列-S_Pro_Mini_LED.png"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/02_05_巨幕影院-REDMI_MAX.png",
         "name": "巨幕影院-REDMI MAX",
-        "img": "imgs/nav/02_05_巨幕影院-REDMI_MAX.png"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/02_06_游戏高刷-REDMI_电视_X_2026.png",
         "name": "游戏高刷-REDMI 电视 X 2026",
-        "img": "imgs/nav/02_06_游戏高刷-REDMI_电视_X_2026.png"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/02_07_性价比爆款-REDMI_A_Pro.png",
         "name": "性价比爆款-REDMI A Pro",
-        "img": "imgs/nav/02_07_性价比爆款-REDMI_A_Pro.png"
+        "url": "#"
       },
       {
-        "id": 8,
+        "img": "/imgs/nav/02_08_性价比爆款-REDMI_A_2025.png",
         "name": "性价比爆款-REDMI A 2025",
-        "img": "imgs/nav/02_08_性价比爆款-REDMI_A_2025.png"
-      },
-      {
-        "id": 9,
-        "name": "保障服务",
-        "img": "imgs/nav/02_09_保障服务.png"
-      },
-      {
-        "id": 10,
-        "name": "企业团购",
-        "img": "imgs/nav/02_10_企业团购.png"
-      },
-      {
-        "id": 11,
-        "name": "F码通道",
-        "img": "imgs/nav/02_11_F码通道.png"
-      },
-      {
-        "id": 12,
-        "name": "米粉卡",
-        "img": "imgs/nav/02_12_米粉卡.png"
-      },
-      {
-        "id": 13,
-        "name": "以旧换新",
-        "img": "imgs/nav/02_13_以旧换新.png"
-      },
-      {
-        "id": 14,
-        "name": "话费充值",
-        "img": "imgs/nav/02_14_话费充值.png"
-      },
-      {
-        "id": 15,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/02_15_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 16,
-        "name": "个人中心",
-        "img": "imgs/nav/02_16_个人中心.png"
-      },
-      {
-        "id": 17,
-        "name": "售后服务",
-        "img": "imgs/nav/02_17_售后服务.png"
-      },
-      {
-        "id": 18,
-        "name": "人工客服",
-        "img": "imgs/nav/02_18_人工客服.png"
-      },
-      {
-        "id": 19,
-        "name": "购物车",
-        "img": "imgs/nav/02_19_购物车.png"
+        "url": "#"
       }
     ]
   },
   {
     "id": 3,
     "name": "家电",
-    "img": "imgs/channel/channel3.png",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/03_01_壁挂空调.png",
         "name": "壁挂空调",
-        "img": "imgs/nav/03_01_壁挂空调.png"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/03_02_立式空调.png",
         "name": "立式空调",
-        "img": "imgs/nav/03_02_立式空调.png"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/03_03_中央空调Pro.png",
         "name": "中央空调Pro",
-        "img": "imgs/nav/03_03_中央空调Pro.png"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/03_04_冰箱.png",
         "name": "冰箱",
-        "img": "imgs/nav/03_04_冰箱.png"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/03_05_滚筒洗衣机.png",
         "name": "滚筒洗衣机",
-        "img": "imgs/nav/03_05_滚筒洗衣机.png"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/03_06_波轮洗衣机.png",
         "name": "波轮洗衣机",
-        "img": "imgs/nav/03_06_波轮洗衣机.png"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/03_07_除湿机.png",
         "name": "除湿机",
-        "img": "imgs/nav/03_07_除湿机.png"
+        "url": "#"
       },
       {
-        "id": 8,
+        "img": "/imgs/nav/03_08_洗地机.jpg",
         "name": "洗地机",
-        "img": "imgs/nav/03_08_洗地机.jpg"
+        "url": "#"
       },
       {
-        "id": 9,
+        "img": "/imgs/nav/03_09_电暖器.jpg",
         "name": "电暖器",
-        "img": "imgs/nav/03_09_电暖器.jpg"
+        "url": "#"
       },
       {
-        "id": 10,
+        "img": "/imgs/nav/03_10_净水器.jpg",
         "name": "净水器",
-        "img": "imgs/nav/03_10_净水器.jpg"
+        "url": "#"
       },
       {
-        "id": 11,
+        "img": "/imgs/nav/03_11_微蒸烤.jpg",
         "name": "微蒸烤",
-        "img": "imgs/nav/03_11_微蒸烤.jpg"
+        "url": "#"
       },
       {
-        "id": 12,
-        "name": "烟灶",
-        "img": "imgs/nav/03_12_烟灶.jpg"
-      },
-      {
-        "id": 13,
+        "img": "/imgs/nav/03_12_洗碗机.png",
         "name": "洗碗机",
-        "img": "imgs/nav/03_13_洗碗机.png"
+        "url": "#"
       },
       {
-        "id": 14,
+        "img": "/imgs/nav/03_13_扫地机器人.jpg",
         "name": "扫地机器人",
-        "img": "imgs/nav/03_14_扫地机器人.jpg"
+        "url": "#"
       },
       {
-        "id": 15,
+        "img": "/imgs/nav/03_14_吸尘器.jpg",
         "name": "吸尘器",
-        "img": "imgs/nav/03_15_吸尘器.jpg"
+        "url": "#"
       },
       {
-        "id": 16,
+        "img": "/imgs/nav/03_15_加湿器.png",
         "name": "加湿器",
-        "img": "imgs/nav/03_16_加湿器.png"
+        "url": "#"
       },
       {
-        "id": 17,
+        "img": "/imgs/nav/03_16_空气净化器.jpg",
         "name": "空气净化器",
-        "img": "imgs/nav/03_17_空气净化器.jpg"
+        "url": "#"
       },
       {
-        "id": 18,
+        "img": "/imgs/nav/03_17_电饭煲.jpg",
         "name": "电饭煲",
-        "img": "imgs/nav/03_18_电饭煲.jpg"
+        "url": "#"
       },
       {
-        "id": 19,
+        "img": "/imgs/nav/03_18_电磁炉.jpg",
         "name": "电磁炉",
-        "img": "imgs/nav/03_19_电磁炉.jpg"
+        "url": "#"
       },
       {
-        "id": 20,
+        "img": "/imgs/nav/03_19_水壶.jpg",
         "name": "水壶",
-        "img": "imgs/nav/03_20_水壶.jpg"
+        "url": "#"
       },
       {
-        "id": 21,
+        "img": "/imgs/nav/03_20_落地风扇.png",
         "name": "落地风扇",
-        "img": "imgs/nav/03_21_落地风扇.png"
+        "url": "#"
       },
       {
-        "id": 22,
+        "img": "/imgs/nav/03_21_投影仪.png",
         "name": "投影仪",
-        "img": "imgs/nav/03_22_投影仪.png"
+        "url": "#"
       },
       {
-        "id": 23,
+        "img": "/imgs/nav/03_22_灯具.jpg",
         "name": "灯具",
-        "img": "imgs/nav/03_23_灯具.jpg"
+        "url": "#"
       },
       {
-        "id": 24,
+        "img": "/imgs/nav/03_23_除螨仪.png",
         "name": "除螨仪",
-        "img": "imgs/nav/03_24_除螨仪.png"
-      },
-      {
-        "id": 25,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/03_25_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 26,
-        "name": "个人中心",
-        "img": "imgs/nav/03_26_个人中心.png"
-      },
-      {
-        "id": 27,
-        "name": "售后服务",
-        "img": "imgs/nav/03_27_售后服务.png"
-      },
-      {
-        "id": 28,
-        "name": "人工客服",
-        "img": "imgs/nav/03_28_人工客服.png"
+        "url": "#"
       }
     ]
   },
   {
     "id": 4,
     "name": "笔记本 平板  显示器",
-    "img": "imgs/channel/channel4.png",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/04_01_Xiaomi_Pad_9_Pro_Max.png",
         "name": "Xiaomi Pad 9 Pro Max",
-        "img": "imgs/nav/04_01_Xiaomi_Pad_9_Pro_Max.png"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/04_02_REDMIBookPro_16_2026.png",
         "name": "REDMIBookPro 16 2026",
-        "img": "imgs/nav/04_02_REDMIBookPro_16_2026.png"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/04_03_REDMIBookPro_14_2026.png",
         "name": "REDMIBookPro 14 2026",
-        "img": "imgs/nav/04_03_REDMIBookPro_14_2026.png"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/04_04_Xiaomi_Book_Pro_14.png",
         "name": "Xiaomi Book Pro 14",
-        "img": "imgs/nav/04_04_Xiaomi_Book_Pro_14.png"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/04_05_REDMI_K_Pad_2.png",
         "name": "REDMI K Pad 2",
-        "img": "imgs/nav/04_05_REDMI_K_Pad_2.png"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/04_06_REDMI_Pad_2_SE.png",
         "name": "REDMI Pad 2 SE",
-        "img": "imgs/nav/04_06_REDMI_Pad_2_SE.png"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/04_07_REDMI_Pad_2_Pro.png",
         "name": "REDMI Pad 2 Pro",
-        "img": "imgs/nav/04_07_REDMI_Pad_2_Pro.png"
+        "url": "#"
       },
       {
-        "id": 8,
+        "img": "/imgs/nav/04_08_REDMI_Book_14_2026.png",
         "name": "REDMI Book 14 2026",
-        "img": "imgs/nav/04_08_REDMI_Book_14_2026.png"
+        "url": "#"
       },
       {
-        "id": 9,
+        "img": "/imgs/nav/04_09_REDMI_Book_16_2026.png",
         "name": "REDMI Book 16 2026",
-        "img": "imgs/nav/04_09_REDMI_Book_16_2026.png"
+        "url": "#"
       },
       {
-        "id": 10,
+        "img": "/imgs/nav/04_10_Xiaomi_Pad_8_Pro.png",
         "name": "Xiaomi Pad 8 Pro",
-        "img": "imgs/nav/04_10_Xiaomi_Pad_8_Pro.png"
+        "url": "#"
       },
       {
-        "id": 11,
+        "img": "/imgs/nav/04_11_Xiaomi_Pad_8.png",
         "name": "Xiaomi Pad 8",
-        "img": "imgs/nav/04_11_Xiaomi_Pad_8.png"
+        "url": "#"
       },
       {
-        "id": 12,
+        "img": "/imgs/nav/04_12_REDMI_Pad_2.png",
         "name": "REDMI Pad 2",
-        "img": "imgs/nav/04_12_REDMI_Pad_2.png"
+        "url": "#"
       },
       {
-        "id": 13,
+        "img": "/imgs/nav/04_13_REDMI_K_Pad.png",
         "name": "REDMI K Pad",
-        "img": "imgs/nav/04_13_REDMI_K_Pad.png"
+        "url": "#"
       },
       {
-        "id": 14,
+        "img": "/imgs/nav/04_14_Xiaomi_Pad_7S_Pro.png",
         "name": "Xiaomi Pad 7S Pro",
-        "img": "imgs/nav/04_14_Xiaomi_Pad_7S_Pro.png"
+        "url": "#"
       },
       {
-        "id": 15,
+        "img": "/imgs/nav/04_15_Xiaomi_Pad_7_Ultra.png",
         "name": "Xiaomi Pad 7 Ultra",
-        "img": "imgs/nav/04_15_Xiaomi_Pad_7_Ultra.png"
+        "url": "#"
       },
       {
-        "id": 16,
+        "img": "/imgs/nav/04_16_Xiaomi_Pad_7_Pro.png",
         "name": "Xiaomi Pad 7 Pro",
-        "img": "imgs/nav/04_16_Xiaomi_Pad_7_Pro.png"
+        "url": "#"
       },
       {
-        "id": 17,
+        "img": "/imgs/nav/04_17_Xiaomi_Pad_7.png",
         "name": "Xiaomi Pad 7",
-        "img": "imgs/nav/04_17_Xiaomi_Pad_7.png"
+        "url": "#"
       },
       {
-        "id": 18,
+        "img": "/imgs/nav/04_18_REDMI_Book_14_锐龙版.png",
         "name": "REDMI Book 14 锐龙版",
-        "img": "imgs/nav/04_18_REDMI_Book_14_锐龙版.png"
+        "url": "#"
       },
       {
-        "id": 19,
+        "img": "/imgs/nav/04_19_REDMI_Book_Pro_14.png",
         "name": "REDMI Book Pro 14",
-        "img": "imgs/nav/04_19_REDMI_Book_Pro_14.png"
+        "url": "#"
       },
       {
-        "id": 20,
+        "img": "/imgs/nav/04_20_REDMI_Book_Pro_16.png",
         "name": "REDMI Book Pro 16",
-        "img": "imgs/nav/04_20_REDMI_Book_Pro_16.png"
+        "url": "#"
       },
       {
-        "id": 21,
+        "img": "/imgs/nav/04_21_REDMI_平板.png",
         "name": "REDMI 平板",
-        "img": "imgs/nav/04_21_REDMI_平板.png"
+        "url": "#"
       },
       {
-        "id": 22,
+        "img": "/imgs/nav/04_22_REDMI_Book_14_2025.png",
         "name": "REDMI Book 14 2025",
-        "img": "imgs/nav/04_22_REDMI_Book_14_2025.png"
+        "url": "#"
       },
       {
-        "id": 23,
+        "img": "/imgs/nav/04_23_REDMI_Book_16_2025.jpg",
         "name": "REDMI Book 16 2025",
-        "img": "imgs/nav/04_23_REDMI_Book_16_2025.jpg"
+        "url": "#"
       },
       {
-        "id": 24,
+        "img": "/imgs/nav/04_24_办公娱乐显示器.jpg",
         "name": "办公娱乐显示器",
-        "img": "imgs/nav/04_24_办公娱乐显示器.jpg"
-      },
-      {
-        "id": 25,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/04_25_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 26,
-        "name": "个人中心",
-        "img": "imgs/nav/04_26_个人中心.png"
-      },
-      {
-        "id": 27,
-        "name": "售后服务",
-        "img": "imgs/nav/04_27_售后服务.png"
-      },
-      {
-        "id": 28,
-        "name": "人工客服",
-        "img": "imgs/nav/04_28_人工客服.png"
+        "url": "#"
       }
     ]
   },
   {
     "id": 5,
     "name": "出行 穿戴",
-    "img": "imgs/channel/channel5.png",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/05_01_小米手环11_NFC版.png",
         "name": "小米手环11 NFC版",
-        "img": "imgs/nav/05_01_小米手环11_NFC版.png"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/05_02_小米手环11_标准版.png",
         "name": "小米手环11 标准版",
-        "img": "imgs/nav/05_02_小米手环11_标准版.png"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/05_03_Xiaomi_Watch_S5.png",
         "name": "Xiaomi Watch S5",
-        "img": "imgs/nav/05_03_Xiaomi_Watch_S5.png"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/05_04_Xiaomi_Watch_5.png",
         "name": "Xiaomi Watch 5",
-        "img": "imgs/nav/05_04_Xiaomi_Watch_5.png"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/05_05_REDMI_Watch_6.png",
         "name": "REDMI Watch 6",
-        "img": "imgs/nav/05_05_REDMI_Watch_6.png"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/05_06_小米AI眼镜.png",
         "name": "小米AI眼镜",
-        "img": "imgs/nav/05_06_小米AI眼镜.png"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/05_07_Xiaomi_Watch_S4_41mm.png",
         "name": "Xiaomi Watch S4 41mm",
-        "img": "imgs/nav/05_07_Xiaomi_Watch_S4_41mm.png"
+        "url": "#"
       },
       {
-        "id": 8,
+        "img": "/imgs/nav/05_08_小米手环9_Pro.png",
         "name": "小米手环9 Pro",
-        "img": "imgs/nav/05_08_小米手环9_Pro.png"
+        "url": "#"
       },
       {
-        "id": 9,
+        "img": "/imgs/nav/05_09_REDMI_手环_3.png",
         "name": "REDMI 手环 3",
-        "img": "imgs/nav/05_09_REDMI_手环_3.png"
+        "url": "#"
       },
       {
-        "id": 10,
+        "img": "/imgs/nav/05_10_REDMI_Watch_6_活力版.png",
         "name": "REDMI Watch 6 活力版",
-        "img": "imgs/nav/05_10_REDMI_Watch_6_活力版.png"
-      },
-      {
-        "id": 11,
-        "name": "保障服务",
-        "img": "imgs/nav/05_11_保障服务.png"
-      },
-      {
-        "id": 12,
-        "name": "企业团购",
-        "img": "imgs/nav/05_12_企业团购.png"
-      },
-      {
-        "id": 13,
-        "name": "F码通道",
-        "img": "imgs/nav/05_13_F码通道.png"
-      },
-      {
-        "id": 14,
-        "name": "米粉卡",
-        "img": "imgs/nav/05_14_米粉卡.png"
-      },
-      {
-        "id": 15,
-        "name": "以旧换新",
-        "img": "imgs/nav/05_15_以旧换新.png"
-      },
-      {
-        "id": 16,
-        "name": "话费充值",
-        "img": "imgs/nav/05_16_话费充值.png"
-      },
-      {
-        "id": 17,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/05_17_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 18,
-        "name": "个人中心",
-        "img": "imgs/nav/05_18_个人中心.png"
-      },
-      {
-        "id": 19,
-        "name": "售后服务",
-        "img": "imgs/nav/05_19_售后服务.png"
-      },
-      {
-        "id": 20,
-        "name": "人工客服",
-        "img": "imgs/nav/05_20_人工客服.png"
-      },
-      {
-        "id": 21,
-        "name": "购物车",
-        "img": "imgs/nav/05_21_购物车.png"
+        "url": "#"
       }
     ]
   },
   {
     "id": 6,
     "name": "耳机 音箱",
-    "img": "imgs/channel/channel6.png",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/06_01_REDMI_头戴降噪耳机.png",
         "name": "REDMI 头戴降噪耳机",
-        "img": "imgs/nav/06_01_REDMI_头戴降噪耳机.png"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/06_02_Xiaomi_耳夹式耳机.jpg",
         "name": "Xiaomi 耳夹式耳机",
-        "img": "imgs/nav/06_02_Xiaomi_耳夹式耳机.jpg"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/06_03_REDMI_Buds_8_活力版.png",
         "name": "REDMI Buds 8 活力版",
-        "img": "imgs/nav/06_03_REDMI_Buds_8_活力版.png"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/06_04_REDMI_Buds_8.png",
         "name": "REDMI Buds 8",
-        "img": "imgs/nav/06_04_REDMI_Buds_8.png"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/06_05_REDMI_Buds_8_青春版.png",
         "name": "REDMI Buds 8 青春版",
-        "img": "imgs/nav/06_05_REDMI_Buds_8_青春版.png"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/06_06_REDMI_Buds_8_Pro.png",
         "name": "REDMI Buds 8 Pro",
-        "img": "imgs/nav/06_06_REDMI_Buds_8_Pro.png"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/06_07_Xiaomi_Buds_6.png",
         "name": "Xiaomi Buds 6",
-        "img": "imgs/nav/06_07_Xiaomi_Buds_6.png"
+        "url": "#"
       },
       {
-        "id": 8,
+        "img": "/imgs/nav/06_08_Xiaomi_骨传导耳机2.png",
         "name": "Xiaomi 骨传导耳机2",
-        "img": "imgs/nav/06_08_Xiaomi_骨传导耳机2.png"
+        "url": "#"
       },
       {
-        "id": 9,
+        "img": "/imgs/nav/06_09_Xiaomi_Buds_5_Pro.png",
         "name": "Xiaomi Buds 5 Pro",
-        "img": "imgs/nav/06_09_Xiaomi_Buds_5_Pro.png"
+        "url": "#"
       },
       {
-        "id": 10,
+        "img": "/imgs/nav/06_10_Xiaomi_开放式耳机_Pro.png",
         "name": "Xiaomi 开放式耳机 Pro",
-        "img": "imgs/nav/06_10_Xiaomi_开放式耳机_Pro.png"
+        "url": "#"
       },
       {
-        "id": 11,
+        "img": "/imgs/nav/06_11_REDMI_Buds_6.jpg",
         "name": "REDMI Buds 6",
-        "img": "imgs/nav/06_11_REDMI_Buds_6.jpg"
+        "url": "#"
       },
       {
-        "id": 12,
+        "img": "/imgs/nav/06_12_REDMI_Buds_7S.png",
         "name": "REDMI Buds 7S",
-        "img": "imgs/nav/06_12_REDMI_Buds_7S.png"
+        "url": "#"
       },
       {
-        "id": 13,
+        "img": "/imgs/nav/06_13_REDMI_Buds_6_活力版.png",
         "name": "REDMI Buds 6 活力版",
-        "img": "imgs/nav/06_13_REDMI_Buds_6_活力版.png"
+        "url": "#"
       },
       {
-        "id": 14,
+        "img": "/imgs/nav/06_14_Xiaomi智能家庭屏_6.png",
         "name": "Xiaomi智能家庭屏 6",
-        "img": "imgs/nav/06_14_Xiaomi智能家庭屏_6.png"
+        "url": "#"
       },
       {
-        "id": 15,
+        "img": "/imgs/nav/06_15_Xiaomi智能家庭屏_10.png",
         "name": "Xiaomi智能家庭屏 10",
-        "img": "imgs/nav/06_15_Xiaomi智能家庭屏_10.png"
+        "url": "#"
       },
       {
-        "id": 16,
+        "img": "/imgs/nav/06_16_Xiaomi_智能音箱_Pro.png",
         "name": "Xiaomi 智能音箱 Pro",
-        "img": "imgs/nav/06_16_Xiaomi_智能音箱_Pro.png"
+        "url": "#"
       },
       {
-        "id": 17,
+        "img": "/imgs/nav/06_17_小爱音箱Play_增强版.png",
         "name": "小爱音箱Play 增强版",
-        "img": "imgs/nav/06_17_小爱音箱Play_增强版.png"
+        "url": "#"
       },
       {
-        "id": 18,
+        "img": "/imgs/nav/06_18_Xiaomi_智能家庭屏_Mini.png",
         "name": "Xiaomi 智能家庭屏 Mini",
-        "img": "imgs/nav/06_18_Xiaomi_智能家庭屏_Mini.png"
+        "url": "#"
       },
       {
-        "id": 19,
+        "img": "/imgs/nav/06_19_Xiaomi_Sound_Pro.jpg",
         "name": "Xiaomi Sound Pro",
-        "img": "imgs/nav/06_19_Xiaomi_Sound_Pro.jpg"
+        "url": "#"
       },
       {
-        "id": 20,
+        "img": "/imgs/nav/06_20_小米小爱音箱_Play.jpg",
         "name": "小米小爱音箱 Play",
-        "img": "imgs/nav/06_20_小米小爱音箱_Play.jpg"
+        "url": "#"
       },
       {
-        "id": 21,
+        "img": "/imgs/nav/06_21_Xiaomi_蓝牙音箱_Mini.png",
         "name": "Xiaomi 蓝牙音箱 Mini",
-        "img": "imgs/nav/06_21_Xiaomi_蓝牙音箱_Mini.png"
+        "url": "#"
       },
       {
-        "id": 22,
+        "img": "/imgs/nav/06_22_Xiaomi智能音箱.png",
         "name": "Xiaomi智能音箱",
-        "img": "imgs/nav/06_22_Xiaomi智能音箱.png"
+        "url": "#"
       },
       {
-        "id": 23,
+        "img": "/imgs/nav/06_23_Xiaomi智能家庭屏Pro_8.png",
         "name": "Xiaomi智能家庭屏Pro 8",
-        "img": "imgs/nav/06_23_Xiaomi智能家庭屏Pro_8.png"
+        "url": "#"
       },
       {
-        "id": 24,
+        "img": "/imgs/nav/06_24_Xiaomi_Sound_2_Max.png",
         "name": "Xiaomi Sound 2 Max",
-        "img": "imgs/nav/06_24_Xiaomi_Sound_2_Max.png"
-      },
-      {
-        "id": 25,
-        "name": "保障服务",
-        "img": "imgs/nav/06_25_保障服务.png"
-      },
-      {
-        "id": 26,
-        "name": "企业团购",
-        "img": "imgs/nav/06_26_企业团购.png"
-      },
-      {
-        "id": 27,
-        "name": "F码通道",
-        "img": "imgs/nav/06_27_F码通道.png"
-      },
-      {
-        "id": 28,
-        "name": "米粉卡",
-        "img": "imgs/nav/06_28_米粉卡.png"
-      },
-      {
-        "id": 29,
-        "name": "以旧换新",
-        "img": "imgs/nav/06_29_以旧换新.png"
-      },
-      {
-        "id": 30,
-        "name": "话费充值",
-        "img": "imgs/nav/06_30_话费充值.png"
-      },
-      {
-        "id": 31,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/06_31_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 32,
-        "name": "个人中心",
-        "img": "imgs/nav/06_32_个人中心.png"
-      },
-      {
-        "id": 33,
-        "name": "售后服务",
-        "img": "imgs/nav/06_33_售后服务.png"
-      },
-      {
-        "id": 34,
-        "name": "人工客服",
-        "img": "imgs/nav/06_34_人工客服.png"
-      },
-      {
-        "id": 35,
-        "name": "购物车",
-        "img": "imgs/nav/06_35_购物车.png"
+        "url": "#"
       }
     ]
   },
   {
     "id": 7,
     "name": "健康 儿童",
-    "img": "imgs/channel/channel7.jpg",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/07_01_洗手机.jpg",
         "name": "洗手机",
-        "img": "imgs/nav/07_01_洗手机.jpg"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/07_02_剃须刀.jpg",
         "name": "剃须刀",
-        "img": "imgs/nav/07_02_剃须刀.jpg"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/07_03_修剪器.jpg",
         "name": "修剪器",
-        "img": "imgs/nav/07_03_修剪器.jpg"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/07_04_牙刷.jpg",
         "name": "牙刷",
-        "img": "imgs/nav/07_04_牙刷.jpg"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/07_05_吹风机.jpg",
         "name": "吹风机",
-        "img": "imgs/nav/07_05_吹风机.jpg"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/07_06_体重秤.png",
         "name": "体重秤",
-        "img": "imgs/nav/07_06_体重秤.png"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/07_07_体脂秤.jpg",
         "name": "体脂秤",
-        "img": "imgs/nav/07_07_体脂秤.jpg"
+        "url": "#"
       },
       {
-        "id": 8,
+        "img": "/imgs/nav/07_08_米家跑步机.png",
         "name": "米家跑步机",
-        "img": "imgs/nav/07_08_米家跑步机.png"
+        "url": "#"
       },
       {
-        "id": 9,
+        "img": "/imgs/nav/07_09_米家动感单车.jpg",
         "name": "米家动感单车",
-        "img": "imgs/nav/07_09_米家动感单车.jpg"
+        "url": "#"
       },
       {
-        "id": 10,
+        "img": "/imgs/nav/07_10_走步机.jpg",
         "name": "走步机",
-        "img": "imgs/nav/07_10_走步机.jpg"
+        "url": "#"
       },
       {
-        "id": 11,
+        "img": "/imgs/nav/07_11_益智积木.png",
         "name": "益智积木",
-        "img": "imgs/nav/07_11_益智积木.png"
+        "url": "#"
       },
       {
-        "id": 12,
+        "img": "/imgs/nav/07_12_儿童手表.jpg",
         "name": "儿童手表",
-        "img": "imgs/nav/07_12_儿童手表.jpg"
+        "url": "#"
       },
       {
-        "id": 13,
+        "img": "/imgs/nav/07_13_儿童滑板车.jpg",
         "name": "儿童滑板车",
-        "img": "imgs/nav/07_13_儿童滑板车.jpg"
+        "url": "#"
       },
       {
-        "id": 14,
+        "img": "/imgs/nav/07_14_婴儿推车.jpg",
         "name": "婴儿推车",
-        "img": "imgs/nav/07_14_婴儿推车.jpg"
+        "url": "#"
       },
       {
-        "id": 15,
+        "img": "/imgs/nav/07_15_理发器.jpg",
         "name": "理发器",
-        "img": "imgs/nav/07_15_理发器.jpg"
-      },
-      {
-        "id": 16,
-        "name": "保障服务",
-        "img": "imgs/nav/07_16_保障服务.png"
-      },
-      {
-        "id": 17,
-        "name": "企业团购",
-        "img": "imgs/nav/07_17_企业团购.png"
-      },
-      {
-        "id": 18,
-        "name": "F码通道",
-        "img": "imgs/nav/07_18_F码通道.png"
-      },
-      {
-        "id": 19,
-        "name": "米粉卡",
-        "img": "imgs/nav/07_19_米粉卡.png"
-      },
-      {
-        "id": 20,
-        "name": "以旧换新",
-        "img": "imgs/nav/07_20_以旧换新.png"
-      },
-      {
-        "id": 21,
-        "name": "话费充值",
-        "img": "imgs/nav/07_21_话费充值.png"
-      },
-      {
-        "id": 22,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/07_22_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 23,
-        "name": "个人中心",
-        "img": "imgs/nav/07_23_个人中心.png"
-      },
-      {
-        "id": 24,
-        "name": "售后服务",
-        "img": "imgs/nav/07_24_售后服务.png"
-      },
-      {
-        "id": 25,
-        "name": "人工客服",
-        "img": "imgs/nav/07_25_人工客服.png"
-      },
-      {
-        "id": 26,
-        "name": "购物车",
-        "img": "imgs/nav/07_26_购物车.png"
+        "url": "#"
       }
     ]
   },
   {
     "id": 8,
     "name": "生活 箱包",
-    "img": "imgs/channel/channel8.jpg",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/08_01_小背包.jpg",
         "name": "小背包",
-        "img": "imgs/nav/08_01_小背包.jpg"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/08_02_双肩包.jpg",
         "name": "双肩包",
-        "img": "imgs/nav/08_02_双肩包.jpg"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/08_03_胸包.jpg",
         "name": "胸包",
-        "img": "imgs/nav/08_03_胸包.jpg"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/08_04_旅行箱.jpg",
         "name": "旅行箱",
-        "img": "imgs/nav/08_04_旅行箱.jpg"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/08_05_收纳袋.jpg",
         "name": "收纳袋",
-        "img": "imgs/nav/08_05_收纳袋.jpg"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/08_06_运动鞋.jpg",
         "name": "运动鞋",
-        "img": "imgs/nav/08_06_运动鞋.jpg"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/08_07_服饰.jpg",
         "name": "服饰",
-        "img": "imgs/nav/08_07_服饰.jpg"
+        "url": "#"
       },
       {
-        "id": 8,
+        "img": "/imgs/nav/08_08_眼镜.jpg",
         "name": "眼镜",
-        "img": "imgs/nav/08_08_眼镜.jpg"
+        "url": "#"
       },
       {
-        "id": 9,
+        "img": "/imgs/nav/08_09_床垫.jpg",
         "name": "床垫",
-        "img": "imgs/nav/08_09_床垫.jpg"
+        "url": "#"
       },
       {
-        "id": 10,
+        "img": "/imgs/nav/08_10_枕头.png",
         "name": "枕头",
-        "img": "imgs/nav/08_10_枕头.png"
+        "url": "#"
       },
       {
-        "id": 11,
+        "img": "/imgs/nav/08_11_螺丝刀.jpg",
         "name": "螺丝刀",
-        "img": "imgs/nav/08_11_螺丝刀.jpg"
+        "url": "#"
       },
       {
-        "id": 12,
+        "img": "/imgs/nav/08_12_水杯.jpg",
         "name": "水杯",
-        "img": "imgs/nav/08_12_水杯.jpg"
+        "url": "#"
       },
       {
-        "id": 13,
+        "img": "/imgs/nav/08_13_驱蚊器.jpg",
         "name": "驱蚊器",
-        "img": "imgs/nav/08_13_驱蚊器.jpg"
+        "url": "#"
       },
       {
-        "id": 14,
+        "img": "/imgs/nav/08_14_毛巾_浴巾.jpg",
         "name": "毛巾/浴巾",
-        "img": "imgs/nav/08_14_毛巾_浴巾.jpg"
-      },
-      {
-        "id": 15,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/08_15_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 16,
-        "name": "个人中心",
-        "img": "imgs/nav/08_16_个人中心.png"
-      },
-      {
-        "id": 17,
-        "name": "售后服务",
-        "img": "imgs/nav/08_17_售后服务.png"
-      },
-      {
-        "id": 18,
-        "name": "人工客服",
-        "img": "imgs/nav/08_18_人工客服.png"
+        "url": "#"
       }
     ]
   },
   {
     "id": 9,
     "name": "智能 路由器",
-    "img": "imgs/channel/channel9.png",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/09_01_MIJIA_K歌麦克风.png",
         "name": "MIJIA K歌麦克风",
-        "img": "imgs/nav/09_01_MIJIA_K歌麦克风.png"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/09_02_打印机.jpg",
         "name": "打印机",
-        "img": "imgs/nav/09_02_打印机.jpg"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/09_03_小米路由器.png",
         "name": "小米路由器",
-        "img": "imgs/nav/09_03_小米路由器.png"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/09_04_REDMI路由器.png",
         "name": "REDMI路由器",
-        "img": "imgs/nav/09_04_REDMI路由器.png"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/09_05_智能家庭.jpg",
         "name": "智能家庭",
-        "img": "imgs/nav/09_05_智能家庭.jpg"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/09_06_对讲机.jpg",
         "name": "对讲机",
-        "img": "imgs/nav/09_06_对讲机.jpg"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/09_07_摄像机.jpg",
         "name": "摄像机",
-        "img": "imgs/nav/09_07_摄像机.jpg"
+        "url": "#"
       },
       {
-        "id": 8,
+        "img": "/imgs/nav/09_08_智能门锁.jpg",
         "name": "智能门锁",
-        "img": "imgs/nav/09_08_智能门锁.jpg"
+        "url": "#"
       },
       {
-        "id": 9,
+        "img": "/imgs/nav/09_09_门铃_猫眼.png",
         "name": "门铃/猫眼",
-        "img": "imgs/nav/09_09_门铃_猫眼.png"
+        "url": "#"
       },
       {
-        "id": 10,
+        "img": "/imgs/nav/09_10_小爱音箱.png",
         "name": "小爱音箱",
-        "img": "imgs/nav/09_10_小爱音箱.png"
+        "url": "#"
       },
       {
-        "id": 11,
+        "img": "/imgs/nav/09_11_家庭屏.png",
         "name": "家庭屏",
-        "img": "imgs/nav/09_11_家庭屏.png"
-      },
-      {
-        "id": 12,
-        "name": "保障服务",
-        "img": "imgs/nav/09_12_保障服务.png"
-      },
-      {
-        "id": 13,
-        "name": "企业团购",
-        "img": "imgs/nav/09_13_企业团购.png"
-      },
-      {
-        "id": 14,
-        "name": "F码通道",
-        "img": "imgs/nav/09_14_F码通道.png"
-      },
-      {
-        "id": 15,
-        "name": "米粉卡",
-        "img": "imgs/nav/09_15_米粉卡.png"
-      },
-      {
-        "id": 16,
-        "name": "以旧换新",
-        "img": "imgs/nav/09_16_以旧换新.png"
-      },
-      {
-        "id": 17,
-        "name": "话费充值",
-        "img": "imgs/nav/09_17_话费充值.png"
-      },
-      {
-        "id": 18,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/09_18_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 19,
-        "name": "个人中心",
-        "img": "imgs/nav/09_19_个人中心.png"
-      },
-      {
-        "id": 20,
-        "name": "售后服务",
-        "img": "imgs/nav/09_20_售后服务.png"
-      },
-      {
-        "id": 21,
-        "name": "人工客服",
-        "img": "imgs/nav/09_21_人工客服.png"
-      },
-      {
-        "id": 22,
-        "name": "购物车",
-        "img": "imgs/nav/09_22_购物车.png"
+        "url": "#"
       }
     ]
   },
   {
     "id": 10,
     "name": "电源 配件",
-    "img": "imgs/channel/channel10.jpg",
     "children": [
       {
-        "id": 1,
+        "img": "/imgs/nav/10_01_插座插排.jpg",
         "name": "插座插排",
-        "img": "imgs/nav/10_01_插座插排.jpg"
+        "url": "#"
       },
       {
-        "id": 2,
+        "img": "/imgs/nav/10_02_移动电源.png",
         "name": "移动电源",
-        "img": "imgs/nav/10_02_移动电源.png"
+        "url": "#"
       },
       {
-        "id": 3,
+        "img": "/imgs/nav/10_03_数据线.jpg",
         "name": "数据线",
-        "img": "imgs/nav/10_03_数据线.jpg"
+        "url": "#"
       },
       {
-        "id": 4,
+        "img": "/imgs/nav/10_04_穿戴配件.jpg",
         "name": "穿戴配件",
-        "img": "imgs/nav/10_04_穿戴配件.jpg"
+        "url": "#"
       },
       {
-        "id": 5,
+        "img": "/imgs/nav/10_05_平板配件.png",
         "name": "平板配件",
-        "img": "imgs/nav/10_05_平板配件.png"
+        "url": "#"
       },
       {
-        "id": 6,
+        "img": "/imgs/nav/10_06_充电器.png",
         "name": "充电器",
-        "img": "imgs/nav/10_06_充电器.png"
+        "url": "#"
       },
       {
-        "id": 7,
+        "img": "/imgs/nav/10_07_电池.jpg",
         "name": "电池",
-        "img": "imgs/nav/10_07_电池.jpg"
+        "url": "#"
       },
       {
-        "id": 8,
+        "img": "/imgs/nav/10_08_自拍杆.jpg",
         "name": "自拍杆",
-        "img": "imgs/nav/10_08_自拍杆.jpg"
+        "url": "#"
       },
       {
-        "id": 9,
+        "img": "/imgs/nav/10_09_手机壳.jpg",
         "name": "手机壳",
-        "img": "imgs/nav/10_09_手机壳.jpg"
+        "url": "#"
       },
       {
-        "id": 10,
+        "img": "/imgs/nav/10_10_手机贴膜.jpg",
         "name": "手机贴膜",
-        "img": "imgs/nav/10_10_手机贴膜.jpg"
+        "url": "#"
       },
       {
-        "id": 11,
+        "img": "/imgs/nav/10_11_无线充电器.png",
         "name": "无线充电器",
-        "img": "imgs/nav/10_11_无线充电器.png"
+        "url": "#"
       },
       {
-        "id": 12,
+        "img": "/imgs/nav/10_12_其他配件.jpg",
         "name": "其他配件",
-        "img": "imgs/nav/10_12_其他配件.jpg"
-      },
-      {
-        "id": 13,
-        "name": "保障服务",
-        "img": "imgs/nav/10_13_保障服务.png"
-      },
-      {
-        "id": 14,
-        "name": "企业团购",
-        "img": "imgs/nav/10_14_企业团购.png"
-      },
-      {
-        "id": 15,
-        "name": "F码通道",
-        "img": "imgs/nav/10_15_F码通道.png"
-      },
-      {
-        "id": 16,
-        "name": "米粉卡",
-        "img": "imgs/nav/10_16_米粉卡.png"
-      },
-      {
-        "id": 17,
-        "name": "以旧换新",
-        "img": "imgs/nav/10_17_以旧换新.png"
-      },
-      {
-        "id": 18,
-        "name": "话费充值",
-        "img": "imgs/nav/10_18_话费充值.png"
-      },
-      {
-        "id": 19,
-        "name": "手机APP 扫码领取新人百元礼包",
-        "img": "imgs/nav/10_19_手机APP_扫码领取新人百元礼包.png"
-      },
-      {
-        "id": 20,
-        "name": "个人中心",
-        "img": "imgs/nav/10_20_个人中心.png"
-      },
-      {
-        "id": 21,
-        "name": "售后服务",
-        "img": "imgs/nav/10_21_售后服务.png"
-      },
-      {
-        "id": 22,
-        "name": "人工客服",
-        "img": "imgs/nav/10_22_人工客服.png"
-      },
-      {
-        "id": 23,
-        "name": "购物车",
-        "img": "imgs/nav/10_23_购物车.png"
+        "url": "#"
       }
     ]
   }

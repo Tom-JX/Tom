@@ -5,40 +5,40 @@
     "url": "#",
     "list": [
       {
-        "img": "imgs/01_01_Xiaomi_18_Fold.png",
+        "img": "/imgs/01_01_Xiaomi_18_Fold.png",
         "title": "Xiaomi 18 Fold",
         "price": "10999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=25299"
+        "url": "#"
       },
       {
-        "img": "imgs/01_02_Xiaomi_17T_Pro.png",
+        "img": "/imgs/01_02_Xiaomi_17T_Pro.png",
         "title": "Xiaomi 17T Pro",
         "price": "4299元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24809"
+        "url": "#"
       },
       {
-        "img": "imgs/01_03_Xiaomi_17T.png",
+        "img": "/imgs/01_03_Xiaomi_17T.png",
         "title": "Xiaomi 17T",
         "price": "3499元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24814"
+        "url": "#"
       },
       {
-        "img": "imgs/01_04_Xiaomi_17_Max.png",
+        "img": "/imgs/01_04_Xiaomi_17_Max.png",
         "title": "Xiaomi 17 Max",
         "price": "4799元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24648"
+        "url": "#"
       },
       {
-        "img": "imgs/01_05_Xiaomi_17_Ultra_徕卡版.png",
+        "img": "/imgs/01_05_Xiaomi_17_Ultra_徕卡版.png",
         "title": "Xiaomi 17 Ultra 徕卡版",
         "price": "7999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=22423"
+        "url": "#"
       },
       {
-        "img": "imgs/01_06_Xiaomi_17_Ultra.png",
+        "img": "/imgs/01_06_Xiaomi_17_Ultra.png",
         "title": "Xiaomi 17 Ultra",
         "price": "6999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=22422"
+        "url": "#"
       }
     ]
   },
@@ -48,40 +48,40 @@
     "url": "#",
     "list": [
       {
-        "img": "imgs/02_01_REDMI_K100_Pro_Max.png",
+        "img": "/imgs/02_01_REDMI_K100_Pro_Max.png",
         "title": "REDMI K100 Pro Max",
         "price": "4499元起",
-        "url": "https://www.mi.com/shop/buy?product_id=25140"
+        "url": "#"
       },
       {
-        "img": "imgs/02_02_REDMI_K100_Pro.png",
+        "img": "/imgs/02_02_REDMI_K100_Pro.png",
         "title": "REDMI K100 Pro",
         "price": "3999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=25135"
+        "url": "#"
       },
       {
-        "img": "imgs/02_03_REDMI_17_5G.png",
+        "img": "/imgs/02_03_REDMI_17_5G.png",
         "title": "REDMI 17 5G",
         "price": "999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24884"
+        "url": "#"
       },
       {
-        "img": "imgs/02_04_REDMI_Note_17_Pro.jpg",
+        "img": "/imgs/02_04_REDMI_Note_17_Pro.jpg",
         "title": "REDMI Note 17 Pro",
         "price": "1549元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24930"
+        "url": "#"
       },
       {
-        "img": "imgs/02_05_REDMI_Note_17.jpg",
+        "img": "/imgs/02_05_REDMI_Note_17.jpg",
         "title": "REDMI Note 17",
         "price": "1249元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24940"
+        "url": "#"
       },
       {
-        "img": "imgs/02_06_REDMI_K90_至尊版.png",
+        "img": "/imgs/02_06_REDMI_K90_至尊版.png",
         "title": "REDMI K90 至尊版",
         "price": "3699元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24933"
+        "url": "#"
       }
     ]
   },
@@ -91,40 +91,40 @@
     "url": "#",
     "list": [
       {
-        "img": "imgs/03_01_小米电视S_Pro_RGB-Mini_LED_2027系列.png",
+        "img": "/imgs/03_01_小米电视S_Pro_RGB-Mini_LED_2027系列.png",
         "title": "小米电视S Pro RGB-Mini LED 2027系列",
         "price": "9299元起",
-        "url": "https://www.mi.com/shop/buy?product_id=10050236"
+        "url": "#"
       },
       {
-        "img": "imgs/03_02_小米电视S_Mini_LED_2026.png",
+        "img": "/imgs/03_02_小米电视S_Mini_LED_2026.png",
         "title": "小米电视S Mini LED 2026",
         "price": "4199元起",
-        "url": "https://www.mi.com/shop/buy?product_id=10050173"
+        "url": "#"
       },
       {
-        "img": "imgs/03_03_小米电视S_Pro_Mini_LED_2026.png",
+        "img": "/imgs/03_03_小米电视S_Pro_Mini_LED_2026.png",
         "title": "小米电视S Pro Mini LED 2026",
         "price": "6499元起",
-        "url": "https://www.mi.com/shop/buy?product_id=10050131"
+        "url": "#"
       },
       {
-        "img": "imgs/03_04_巨幕影院-REDMI_MAX.png",
+        "img": "/imgs/03_04_巨幕影院-REDMI_MAX.png",
         "title": "巨幕影院-REDMI MAX",
         "price": "5999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=10050072"
+        "url": "#"
       },
       {
-        "img": "imgs/03_05_性价比爆款-REDMI_A_Pro.png",
+        "img": "/imgs/03_05_性价比爆款-REDMI_A_Pro.png",
         "title": "性价比爆款-REDMI A Pro",
         "price": "1749元起",
-        "url": "https://www.mi.com/shop/buy?product_id=10050074"
+        "url": "#"
       },
       {
-        "img": "imgs/03_06_性价比爆款-REDMI_A_2025.png",
+        "img": "/imgs/03_06_性价比爆款-REDMI_A_2025.png",
         "title": "性价比爆款-REDMI A 2025",
         "price": "899元起",
-        "url": "https://www.mi.com/shop/buy?product_id=10050071"
+        "url": "#"
       }
     ]
   },
@@ -134,40 +134,40 @@
     "url": "#",
     "list": [
       {
-        "img": "imgs/04_01_REDMI_Book_Pro_16_2026.png",
+        "img": "/imgs/04_01_REDMI_Book_Pro_16_2026.png",
         "title": "REDMI Book Pro 16 2026",
         "price": "7399元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24037"
+        "url": "#"
       },
       {
-        "img": "imgs/04_02_REDMI_Book_Pro_14_2026.png",
+        "img": "/imgs/04_02_REDMI_Book_Pro_14_2026.png",
         "title": "REDMI Book Pro 14 2026",
         "price": "7199元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24035"
+        "url": "#"
       },
       {
-        "img": "imgs/04_03_Xiaomi_Book_Pro_14.png",
+        "img": "/imgs/04_03_Xiaomi_Book_Pro_14.png",
         "title": "Xiaomi Book Pro 14",
         "price": "8999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=23472"
+        "url": "#"
       },
       {
-        "img": "imgs/04_04_REDMI_Book_16_2026.png",
+        "img": "/imgs/04_04_REDMI_Book_16_2026.png",
         "title": "REDMI Book 16 2026",
         "price": "6199元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24038"
+        "url": "#"
       },
       {
-        "img": "imgs/04_05_REDMI_Book_14_2026.png",
+        "img": "/imgs/04_05_REDMI_Book_14_2026.png",
         "title": "REDMI Book 14 2026",
         "price": "5999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24282"
+        "url": "#"
       },
       {
-        "img": "imgs/04_06_REDMI_Book_14_锐龙版_2025.png",
+        "img": "/imgs/04_06_REDMI_Book_14_锐龙版_2025.png",
         "title": "REDMI Book 14 锐龙版 2025",
         "price": "3699元起",
-        "url": "https://www.mi.com/shop/buy?product_id=21364"
+        "url": "#"
       }
     ]
   },
@@ -177,40 +177,40 @@
     "url": "#",
     "list": [
       {
-        "img": "imgs/05_01_Xiaomi_Pad_9_Pro_Max.png",
+        "img": "/imgs/05_01_Xiaomi_Pad_9_Pro_Max.png",
         "title": "Xiaomi Pad 9 Pro Max",
         "price": "4799元起",
-        "url": "https://www.mi.com/shop/buy?product_id=25324"
+        "url": "#"
       },
       {
-        "img": "imgs/05_02_REDMI_K_Pad_2.png",
+        "img": "/imgs/05_02_REDMI_K_Pad_2.png",
         "title": "REDMI K Pad 2",
         "price": "3599元起",
-        "url": "https://www.mi.com/shop/buy?product_id=23974"
+        "url": "#"
       },
       {
-        "img": "imgs/05_03_REDMI_Pad_2_SE.png",
+        "img": "/imgs/05_03_REDMI_Pad_2_SE.png",
         "title": "REDMI Pad 2 SE",
         "price": "1199元起",
-        "url": "https://www.mi.com/shop/buy?product_id=24235"
+        "url": "#"
       },
       {
-        "img": "imgs/05_04_REDMI_Pad_2_Pro.png",
+        "img": "/imgs/05_04_REDMI_Pad_2_Pro.png",
         "title": "REDMI Pad 2 Pro",
         "price": "1999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=22535"
+        "url": "#"
       },
       {
-        "img": "imgs/05_05_Xiaomi_Pad_8_Pro.png",
+        "img": "/imgs/05_05_Xiaomi_Pad_8_Pro.png",
         "title": "Xiaomi Pad 8 Pro",
         "price": "2999元起",
-        "url": "https://www.mi.com/shop/buy?product_id=21871"
+        "url": "#"
       },
       {
-        "img": "imgs/05_06_Xiaomi_Pad_8.png",
+        "img": "/imgs/05_06_Xiaomi_Pad_8.png",
         "title": "Xiaomi Pad 8",
         "price": "2799元起",
-        "url": "https://www.mi.com/shop/buy?product_id=21872"
+        "url": "#"
       }
     ]
   },
@@ -220,40 +220,40 @@
     "url": "#",
     "list": [
       {
-        "img": "imgs/06_01_米家冰箱_对开636L.png",
+        "img": "/imgs/06_01_米家冰箱_对开636L.png",
         "title": "米家冰箱 对开636L",
         "price": "1899元",
-        "url": "https://www.mi.com/shop/buy?product_id=22504"
+        "url": "#"
       },
       {
-        "img": "imgs/06_02_巨省电Pro_立式3匹_超一级能效_米家空调.png",
+        "img": "/imgs/06_02_巨省电Pro_立式3匹_超一级能效_米家空调.png",
         "title": "巨省电Pro 立式3匹 超一级能效 米家空调",
         "price": "3909元",
-        "url": "https://www.mi.com/shop/buy?product_id=20791"
+        "url": "#"
       },
       {
-        "img": "imgs/06_03_小米空调_1.5匹新1级能效.png",
+        "img": "/imgs/06_03_小米空调_1.5匹新1级能效.png",
         "title": "小米空调 1.5匹新1级能效",
         "price": "1899元",
-        "url": "https://www.mi.com/shop/buy?product_id=13143"
+        "url": "#"
       },
       {
-        "img": "imgs/06_04_米家三区洗衣机Pro_滚筒10kg.png",
+        "img": "/imgs/06_04_米家三区洗衣机Pro_滚筒10kg.png",
         "title": "米家三区洗衣机Pro 滚筒10kg",
         "price": "4699元",
-        "url": "https://www.mi.com/shop/buy?product_id=21811"
+        "url": "#"
       },
       {
-        "img": "imgs/06_05_米家洗衣机_洗烘12kg.png",
+        "img": "/imgs/06_05_米家洗衣机_洗烘12kg.png",
         "title": "米家洗衣机 洗烘12kg",
         "price": "1899元",
-        "url": "https://www.mi.com/shop/buy?product_id=21556"
+        "url": "#"
       },
       {
-        "img": "imgs/06_06_米家冰箱Pro_微冰鲜双系统_十字平嵌560L_冰晶白.png",
+        "img": "/imgs/06_06_米家冰箱Pro_微冰鲜双系统_十字平嵌560L_冰晶白.png",
         "title": "米家冰箱Pro 微冰鲜双系统 十字平嵌560L 冰晶白",
         "price": "6999元",
-        "url": "https://www.mi.com/shop/buy?product_id=22397"
+        "url": "#"
       }
     ]
   },
@@ -263,53 +263,53 @@
     "url": "#",
     "list": [
       {
-        "img": "imgs/07_01_Xiaomi路由器AX3000T.png",
+        "img": "/imgs/07_01_Xiaomi路由器AX3000T.png",
         "title": "Xiaomi路由器AX3000T",
         "price": "159元",
-        "url": "https://www.mi.com/shop/buy?product_id=19106"
+        "url": "#"
       },
       {
-        "img": "imgs/07_02_Xiaomi全屋路由_BE3600Pro_套装.png",
+        "img": "/imgs/07_02_Xiaomi全屋路由_BE3600Pro_套装.png",
         "title": "Xiaomi全屋路由 BE3600Pro 套装",
         "price": "699元",
-        "url": "https://www.mi.com/shop/buy?product_id=20559"
+        "url": "#"
       },
       {
-        "img": "imgs/07_03_Xiaomi路由器_BE3600.png",
+        "img": "/imgs/07_03_Xiaomi路由器_BE3600.png",
         "title": "Xiaomi路由器 BE3600",
         "price": "199元",
-        "url": "https://www.mi.com/xiaomi-routers/be-3600"
+        "url": "#"
       },
       {
-        "img": "imgs/07_04_Xiaomi路由器_BE6500_Pro.png",
+        "img": "/imgs/07_04_Xiaomi路由器_BE6500_Pro.png",
         "title": "Xiaomi路由器 BE6500 Pro",
         "price": "549元",
-        "url": "https://www.mi.com/xiaomi-routers/6500pro"
+        "url": "#"
       },
       {
-        "img": "imgs/07_05_Xiaomi路由器_BE5000.png",
+        "img": "/imgs/07_05_Xiaomi路由器_BE5000.png",
         "title": "Xiaomi路由器 BE5000",
         "price": "279元",
-        "url": "https://www.mi.com/xiaomi-routers/be-5000"
+        "url": "#"
       },
       {
-        "img": "imgs/07_06_查看全部小米路由器.png",
+        "img": "/imgs/07_06_查看全部小米路由器.png",
         "title": "查看全部小米路由器",
         "price": "",
-        "url": "//www.mi.com/shop/search?keyword=%E8%B7%AF%E7%94%B1"
+        "url": "#"
       }
     ]
   },
   {
     "id": 8,
     "name": "服务中心",
-    "url": "https://www.mi.com/service/",
+    "url": "#",
     "list": []
   },
   {
     "id": 9,
     "name": "社区",
-    "url": "http://www.xiaomi.cn/",
+    "url": "#",
     "list": []
   }
 ]

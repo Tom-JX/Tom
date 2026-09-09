@@ -3,61 +3,61 @@
     {
       "id": 1,
       "name": "手机",
-      "img": "imgs/channel/channel1.png",
+      "img": "/imgs/channel/channel1.png",
       "children": 18
     },
     {
       "id": 2,
       "name": "电视",
-      "img": "imgs/channel/channel2.png",
+      "img": "/imgs/channel/channel2.png",
       "children": 19
     },
     {
       "id": 3,
       "name": "家电",
-      "img": "imgs/channel/channel3.png",
+      "img": "/imgs/channel/channel3.png",
       "children": 28
     },
     {
       "id": 4,
       "name": "笔记本 平板 显示器",
-      "img": "imgs/channel/channel4.png",
+      "img": "/imgs/channel/channel4.png",
       "children": 28
     },
     {
       "id": 5,
       "name": "出行 穿戴",
-      "img": "imgs/channel/channel5.png",
+      "img": "/imgs/channel/channel5.png",
       "children": 21
     },
     {
       "id": 6,
       "name": "耳机 音箱",
-      "img": "imgs/channel/channel6.png",
+      "img": "/imgs/channel/channel6.png",
       "children": 35
     },
     {
       "id": 7,
       "name": "健康 儿童",
-      "img": "imgs/channel/channel7.jpg",
+      "img": "/imgs/channel/channel7.jpg",
       "children": 26
     },
     {
       "id": 8,
       "name": "生活 箱包",
-      "img": "imgs/channel/channel8.jpg",
+      "img": "/imgs/channel/channel8.jpg",
       "children": 18
     },
     {
       "id": 9,
       "name": "智能 路由器",
-      "img": "imgs/channel/channel9.png",
+      "img": "/imgs/channel/channel9.png",
       "children": 22
     },
     {
       "id": 10,
       "name": "电源 配件",
-      "img": "imgs/channel/channel10.jpg",
+      "img": "/imgs/channel/channel10.jpg",
       "children": 23
     }
   ],
@@ -65,32 +65,32 @@
     {
       "id": 1,
       "name": "保障服务",
-      "img": "imgs/channel/topbar1.png"
+      "img": "/imgs/channel/topbar1.png"
     },
     {
       "id": 2,
       "name": "企业团购",
-      "img": "imgs/channel/topbar2.png"
+      "img": "/imgs/channel/topbar2.png"
     },
     {
       "id": 3,
       "name": "F码通道",
-      "img": "imgs/channel/topbar3.png"
+      "img": "/imgs/channel/topbar3.png"
     },
     {
       "id": 4,
       "name": "米粉卡",
-      "img": "imgs/channel/topbar4.png"
+      "img": "/imgs/channel/topbar4.png"
     },
     {
       "id": 5,
       "name": "以旧换新",
-      "img": "imgs/channel/topbar5.png"
+      "img": "/imgs/channel/topbar5.png"
     },
     {
       "id": 6,
       "name": "话费充值",
-      "img": "imgs/channel/topbar6.png"
+      "img": "/imgs/channel/topbar6.png"
     }
   ],
   "cart": {

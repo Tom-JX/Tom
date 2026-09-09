@@ -1,12 +1,12 @@
 /* 小米商城 iconfont 字体图标库 — 提取自 mi.com（2026-09-09） */
 @font-face {
   font-family: "iconfont";
-  src: url("iconfont.eot"); /* IE9 */
-  src: url("iconfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-       url("iconfont.woff2") format("woff2"),
-       url("iconfont.woff") format("woff"),
-       url("iconfont.ttf") format("truetype"),
-       url("iconfont.svg#iconfont") format("svg"); /* iOS 4.1- */
+  src: url("/css/ikconfont/iconfont.eot"); /* IE9 */
+  src: url("/css/ikconfont/iconfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+       url("/css/ikconfont/iconfont.woff2") format("woff2"),
+       url("/css/ikconfont/iconfont.woff") format("woff"),
+       url("/css/ikconfont/iconfont.ttf") format("truetype"),
+       url("/css/ikconfont/iconfont.svg#iconfont") format("svg"); /* iOS 4.1- */
   font-weight: normal;
   font-style: normal;
   font-display: block;

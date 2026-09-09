@@ -1,278 +1,48 @@
-/* ============================================================
-   reset.css —— CSS 初始化文件（仿小米商城官网版）
-   ------------------------------------------------------------
-   用法：放入项目 css 文件夹，在 HTML <head> 里引入：
-     <link rel="stylesheet" href="css/reset.css">
-   ------------------------------------------------------------
-   结构说明：
-   第 1 部分：通用初始化（清除默认样式，新手仿站必备）
-   第 2 部分：小米官网原版全局样式（取自 www.mi.com/shop 编译 CSS）
-   2026-09-09
-   ============================================================ */
-
-/* ============ 第 1 部分：通用初始化（清除浏览器默认样式） ============ */
-
-/* 清除所有元素默认外边距/内边距 */
-* {
-  margin: 0;
-  padding: 0;
-}
-
-/* 列表去掉默认圆点/序号 */
+body,
+ol,
 ul,
-ol {
-  list-style: none;
-}
-
-/* 链接：去下划线、继承父级颜色 */
-a {
-  text-decoration: none;
-  color: inherit;
-}
-
-/* 图片：块级显示、去边框、不缩放失真 */
-img {
-  display: block;
-  border: 0;
-}
-
-/* 表单元素：去边框和聚焦外框（按需自行加样式） */
-button,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+th,
+td,
+dl,
+dd,
+form,
+fieldset,
+legend,
 input,
 textarea,
-select {
-  border: 0;
-  outline: none;
-  font: inherit;
-}
-
-/* ============ 第 2 部分：小米官网原版全局样式 ============ */
-/* 来源：官网 home.00fa1b0e.css / category/list.f7bb3893.css 编译内容 */
-
-/* ---- normalize.css v3.0.3（官网编译版）---- */
-
-/* html 字体基准，禁止横屏自动缩放字号 */
-html {
-  font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
-
-/* body 去默认边距 */
-body {
-  margin: 0;
-}
-
-/* HTML5 语义标签统一块级 */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
-}
-
-/* 媒体元素 */
-audio,
-canvas,
-progress,
-video {
-  display: inline-block;
-  vertical-align: baseline;
-}
-audio:not([controls]) {
-  display: none;
-  height: 0;
-}
-[hidden],
-template {
-  display: none;
-}
-
-/* 链接去默认背景色、去点击描边 */
-a {
-  background-color: rgba(0, 0, 0, 0);
-}
-a:active,
-a:hover {
-  outline: 0;
-}
-
-/* 文本 */
-abbr[title] {
-  border-bottom: 1px dotted;
-}
-b,
-strong {
-  font-weight: 700;
-}
-dfn {
-  font-style: italic;
-}
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
-}
-mark {
-  background: #ff0;
-  color: #000;
-}
-small {
-  font-size: 80%;
-}
-sub,
-sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
-}
-sup {
-  top: -0.5em;
-}
-sub {
-  bottom: -0.25em;
-}
-
-/* 图片/图形 */
-img {
-  border: 0;
-}
-svg:not(:root) {
-  overflow: hidden;
-}
-figure {
-  margin: 1em 40px;
-}
-
-/* 分隔线/预格式化文本 */
-hr {
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-  height: 0;
-}
-pre {
-  overflow: auto;
-}
-code,
-kbd,
-pre,
-samp {
-  font-family: monospace, monospace;
-  font-size: 1em;
-}
-
-/* 表单 */
-button,
-input,
-optgroup,
 select,
-textarea {
-  color: inherit;
-  font: inherit;
-  margin: 0;
-}
-button {
-  overflow: visible;
-}
-button,
-select {
-  text-transform: none;
-}
-button,
-html input[type="button"],
-input[type="reset"],
-input[type="submit"] {
-  -webkit-appearance: button;
-  cursor: pointer;
-}
-button[disabled],
-html input[disabled] {
-  cursor: default;
-}
-button::-moz-focus-inner,
-input::-moz-focus-inner {
-  border: 0;
-  padding: 0;
-}
-input {
-  line-height: normal;
-}
-input[type="checkbox"],
-input[type="radio"] {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  padding: 0;
-}
-input[type="number"]::-webkit-inner-spin-button,
-input[type="number"]::-webkit-outer-spin-button {
-  height: auto;
-}
-input[type="search"] {
-  -webkit-appearance: textfield;
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-}
-input[type="search"]::-webkit-search-cancel-button,
-input[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none;
-}
-fieldset {
-  border: 1px solid silver;
-  margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em;
-}
-legend {
-  border: 0;
-  padding: 0;
-}
-textarea {
-  overflow: auto;
-}
-optgroup {
-  font-weight: 700;
+figure,
+figcaption {
+    margin: 0;
+    padding: 0;
 }
 
-/* 表格 */
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-td,
-th {
-  padding: 0;
-}
-
-/* ---- 小米商城全局基础样式（官网自定义，仿站核心）---- */
-
-/* 整站字体/字号/颜色/背景 + 最小宽度 1226px（小米栅格基准） */
 body {
-  font: 14px/1.5 Helvetica Neue, Helvetica, Arial, Microsoft Yahei,
-    Hiragino Sans GB, Heiti SC, WenQuanYi Micro Hei, sans-serif;
-  color: #333;
-  background-color: #fff;
-  min-width: 1226px;
+    text-align: center;
+    font-family:
+        "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei",
+        sans-serif;
 }
 
-/* em 默认不加斜体（iconfont 图标用 em 包裹） */
-em {
-  font-style: normal;
+li {
+    list-style: none;
 }
 
-/* 删除线文字（划线价）统一灰色 */
-del {
-  color: #b0b0b0;
+a {
+    text-decoration: none;
 }
 
-/* iframe 无边框 */
-iframe {
-  border: none;
+img {
+    border: none;
+}
+
+div {
+    box-sizing: border-box;
 }

@@ -4,7 +4,7 @@
 let bannerData = []
 let currentBannerIndex = 0;
 let bannerTimer = null;
-fetch("../data/banner.json")
+fetch("/data/banner.json")
     .then(res => res.json())
     .then(data => {
         initBanner(data);
@@ -14,8 +14,6 @@ fetch("../data/banner.json")
         console.log(error);
 
     })
-
-
 /* 
     初始化轮播图
 */

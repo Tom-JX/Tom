@@ -1,6 +1,6 @@
 //网络请求获取数据：fetch
 let toNavData = []
-fetch("../data/navList.json")
+fetch("/data/navList.json")
     .then(res => res.json())
     .then(data => {
         toNavData = data
