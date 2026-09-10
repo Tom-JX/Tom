@@ -14,21 +14,6 @@ function rendrAppliance(data) {
     if (!data || data.lenght === 0) return;
     const applianceData =data[0];
 
-    //左侧
-
-    const elcLeft = document.querySelector(".elc-left")
-    if(elcLeft && applianceData.cover){
-        elcLeft.innerHTML=""
-        applianceData.cover.forEach(cover =>{
-            const elcItem =document.createElement("div")
-            elcItem.className="item elc-item"
-            elcItem.innerHTML = `
-                <a href="#"><img src="${cover.img}" alt=""></a>
-            `
-            elcLeft.appendChild("elcItem")
-        })
-
-    }
     //右侧
 
     const elcRight = document.querySelector(".elc-right");
