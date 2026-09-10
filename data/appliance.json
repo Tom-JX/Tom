@@ -1,186 +1,62 @@
 [
   {
-    "id": 10050236,
-    "name": "小米电视S Pro RGB-Mini LED 2027系列",
-    "price": "9299元起",
-    "oldPrice": "",
-    "img": "/imgs/appliance/01_小米电视S_Pro_RGB-Mini_LED_2027系列.png",
-    "url": "#"
-  },
-  {
-    "id": 10050173,
-    "name": "小米电视S Mini LED 2026",
-    "price": "4199元起",
-    "oldPrice": "",
-    "img": "/imgs/appliance/02_小米电视S_Mini_LED_2026.png",
-    "url": "#"
-  },
-  {
-    "id": 10050131,
-    "name": "小米电视S Pro Mini LED 2026",
-    "price": "6499元起",
-    "oldPrice": "",
-    "img": "/imgs/appliance/03_小米电视S_Pro_Mini_LED_2026.png",
-    "url": "#"
-  },
-  {
-    "id": 22504,
-    "name": "米家冰箱 对开636L",
-    "price": "1899元",
-    "oldPrice": "",
-    "img": "/imgs/appliance/04_米家冰箱_对开636L.png",
-    "url": "#"
-  },
-  {
-    "id": 20791,
-    "name": "巨省电Pro 立式3匹 超一级能效 米家空调",
-    "price": "3909元",
-    "oldPrice": "",
-    "img": "/imgs/appliance/05_巨省电Pro_立式3匹_超一级能效_米家空调.png",
-    "url": "#"
-  },
-  {
-    "id": 13143,
-    "name": "小米空调 1.5匹新1级能效",
-    "price": "1899元",
-    "oldPrice": "",
-    "img": "/imgs/appliance/06_小米空调_1.5匹新1级能效.png",
-    "url": "#"
-  },
-  {
-    "id": 21811,
-    "name": "米家三区洗衣机Pro 滚筒10kg",
-    "price": "4699元",
-    "oldPrice": "",
-    "img": "/imgs/appliance/07_米家三区洗衣机Pro_滚筒10kg.png",
-    "url": "#"
-  },
-  {
-    "id": 21556,
-    "name": "米家洗衣机 洗烘12kg",
-    "price": "1899元",
-    "oldPrice": "",
-    "img": "/imgs/appliance/08_米家洗衣机_洗烘12kg.png",
-    "url": "#"
-  },
-  {
-    "id": 22397,
-    "name": "米家冰箱Pro 微冰鲜双系统 十字平嵌560L 冰晶白",
-    "price": "6999元",
-    "oldPrice": "",
-    "img": "/imgs/appliance/09_米家冰箱Pro_微冰鲜双系统_十字平嵌560L_冰晶白.png",
-    "url": "#"
-  },
-  {
-    "id": 10050050,
-    "name": "小米电视S Pro Mini LED系列 288Hz超高刷、4+64G大存储",
-    "price": "4999元起",
-    "oldPrice": "",
-    "img": "/imgs/appliance/10_小米电视S_Pro_Mini_LED系列_288Hz超高刷、4+64G大存储.png",
-    "url": "#"
-  },
-  {
-    "id": 22503,
-    "name": "米家冰箱 十字430L 2026款 纤薄机身小占地 精控变温更养鲜",
-    "price": "1949元",
-    "oldPrice": "2299元",
-    "img": "/imgs/appliance/11_米家冰箱_十字430L_2026款_纤薄机身小占地_精控变温更养鲜.png",
-    "url": "#"
-  },
-  {
-    "id": 13143,
-    "name": "巨省电 小米空调 1.5匹新1级能效 强劲制冷 | 高效节能 | 智能互联",
-    "price": "1899元",
-    "oldPrice": "2499元",
-    "img": "/imgs/appliance/12_巨省电_小米空调_1.5匹新1级能效_强劲制冷___高效节能___智能互联.png",
-    "url": "#"
-  },
-  {
-    "id": 22504,
-    "name": "米家冰箱 对开636L 超大 超值 超保鲜",
-    "price": "1899元",
-    "oldPrice": "2999元",
-    "img": "/imgs/appliance/22504_米家冰箱_对开636L_超大_超值_超保鲜.png",
-    "url": "#"
-  },
-  {
-    "id": 22551,
-    "name": "米家洗衣机Pro 超电解智投 洗烘10kg 祛渍净白防串色，智能双路投放",
-    "price": "3099元",
-    "oldPrice": "3799元",
-    "img": "/imgs/appliance/22551_米家洗衣机Pro_超电解智投_洗烘10kg_祛渍净白防串色，智能双路投放.png",
-    "url": "#"
-  },
-  {
-    "id": 23259,
-    "name": "米家智能变频循环扇Pro 3D广角自然风，2分钟焕新整屋空气",
-    "price": "499元",
-    "oldPrice": "599元",
-    "img": "/imgs/appliance/15_米家智能变频循环扇Pro_3D广角自然风，2分钟焕新整屋空气.jpg",
-    "url": "#"
-  },
-  {
-    "id": 14522,
-    "name": "米家智能直流变频循环落地扇 电池版 落地扇、循环扇、无线扇三合一",
-    "price": "559元",
-    "oldPrice": "599元",
-    "img": "/imgs/appliance/16_米家智能直流变频循环落地扇_电池版_落地扇、循环扇、无线扇三合一.jpg",
-    "url": "#"
-  },
-  {
-    "id": 12498,
-    "name": "米家随手吸尘器 干净随手吸",
-    "price": "229元",
-    "oldPrice": "249元",
-    "img": "/imgs/appliance/12498_米家随手吸尘器_干净随手吸.jpg",
-    "url": "#"
-  },
-  {
-    "id": 14536,
-    "name": "米家智能电饭煲 微压版 3L 看得见的真微压",
-    "price": "382元",
-    "oldPrice": "499元",
-    "img": "/imgs/appliance/14536_米家智能电饭煲_微压版_3L_看得见的真微压.jpg",
-    "url": "#"
-  },
-  {
-    "id": 11326,
-    "name": "米家电饭煲C1 快慢收放自如，小巧身材内有乾坤",
-    "price": "159元",
-    "oldPrice": "",
-    "img": "/imgs/appliance/11326_米家电饭煲C1_快慢收放自如，小巧身材内有乾坤.jpg",
-    "url": "#"
-  },
-  {
-    "id": 10330,
-    "name": "米家微波炉 APP操控，精选食谱",
-    "price": "419元",
-    "oldPrice": "449元",
-    "img": "/imgs/appliance/10330_米家微波炉_APP操控，精选食谱.jpg",
-    "url": "#"
-  },
-  {
-    "id": 9866,
-    "name": "米家电烤箱 全能烘焙体验",
-    "price": "299元",
-    "oldPrice": "329元",
-    "img": "/imgs/appliance/9866_米家电烤箱_全能烘焙体验.jpg",
-    "url": "#"
-  },
-  {
-    "id": 12548,
-    "name": "米家智能微烤一体机 能烧烤的微波炉",
-    "price": "549元",
-    "oldPrice": "",
-    "img": "/imgs/appliance/12548_米家智能微烤一体机_能烧烤的微波炉.jpg",
-    "url": "#"
-  },
-  {
-    "id": 9726,
-    "name": "米家空调伴侣2 传统空调轻松智能化",
-    "price": "79元",
-    "oldPrice": "",
-    "img": "/imgs/appliance/9726_米家空调伴侣2_传统空调轻松智能化.jpg",
-    "url": "#"
+    "list": [
+      {
+        "img": "imgs/01_tv_s_pro_miniled.png",
+        "title": "小米电视S Pro Mini LED系列",
+        "desc": "288Hz超高刷、4+64G大存储",
+        "price": "4999元起",
+        "oldPrice": ""
+      },
+      {
+        "img": "imgs/02_tv_s_miniled_2026.png",
+        "title": "小米电视S Mini LED 2026系列",
+        "desc": "2000nits峰值亮度、小米澎湃OS3、高分区Mini LED",
+        "price": "4199元起",
+        "oldPrice": ""
+      },
+      {
+        "img": "imgs/03_fridge_shizi430l.png",
+        "title": "米家冰箱 十字430L 2026款",
+        "desc": "纤薄机身小占地 精控变温更养鲜",
+        "price": "1949元",
+        "oldPrice": "2299元"
+      },
+      {
+        "img": "imgs/04_washer_chaojiedian.png",
+        "title": "米家洗衣机Pro 超电解智投 洗烘12kg",
+        "desc": "12kg大容量洗+9kg烘干，超电解祛渍净白防串色",
+        "price": "3299元",
+        "oldPrice": "3999元"
+      },
+      {
+        "img": "imgs/05_fridge_duikaimen.png",
+        "title": "米家冰箱 对开门系列",
+        "desc": "海量空间 压缩机10年质保",
+        "price": "1999元起",
+        "oldPrice": ""
+      },
+      {
+        "img": "imgs/06_ac_15pi.png",
+        "title": "巨省电 小米空调 1.5匹新1级能效",
+        "desc": "强劲制冷 | 高效节能 | 智能互联",
+        "price": "1899元",
+        "oldPrice": "2499元"
+      },
+      {
+        "img": "imgs/07_ac_lishi3pi.png",
+        "title": "巨省电Pro 立式3匹 超一级能效 米家空调",
+        "desc": "硬核飓风 智能省电",
+        "price": "3909元",
+        "oldPrice": "6499元"
+      },
+      {
+        "img": "imgs/08_washer_minibolun.png",
+        "title": "米家迷你波轮洗衣机Pro 3kg",
+        "desc": "",
+        "price": "1599元",
+        "oldPrice": ""
+      }
+    ]
   }
 ]
